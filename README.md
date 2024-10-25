@@ -113,7 +113,7 @@ gaji_bersih=gaji_pokok−potongan
 
 ### GAJI DI BAWAH UMR
 
-![WhatsApp Image 2024-10-25 at 15 18 35_fde8077b](https://github.com/user-attachments/assets/1a68e75b-8743-461e-831b-ca0bc138a761)
+![Screenshot (37)](https://github.com/user-attachments/assets/3d75f92d-8d68-4a9c-9f2a-59840b4bf34b)
 
 ## BERIKUT SCREENSHOT VISUALCODE
 
