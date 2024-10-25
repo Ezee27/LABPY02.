@@ -198,4 +198,5 @@ Menggunakan print() untuk menampilkan hasil kepada pengguna, termasuk nama, gaji
 
 ## BERIKUT HASIL SCREENSHOOT VISUALCODE
 
-<img width="960" alt="Screenshot 2024-10-25 143250" src="https://github.com/user-attachments/assets/d2faeea6-7cb9-46a7-b65d-2dfd9ff278c9">
+![Screenshot (39)](https://github.com/user-attachments/assets/608ed804-6c69-4c73-9a5c-6abdd4d99849)
+
