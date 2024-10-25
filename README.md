@@ -117,7 +117,7 @@ gaji_bersih=gaji_pokok−potongan
 
 ## BERIKUT SCREENSHOT VISUALCODE
 
-<img width="960" alt="Screenshot 2024-10-25 142936" src="https://github.com/user-attachments/assets/904a4385-f572-4048-8622-d35b49832384">
+![Screenshot (36)](https://github.com/user-attachments/assets/19e2e9c3-aa00-4ac6-a536-0af0dc9950a3)
 
 ## LATIHAN 3
 ### PENGGUNAAN KONDISI OR
